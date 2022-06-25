@@ -1,1 +1,1 @@
-# poe-compas-trader
+# poe-compas-trader-be
